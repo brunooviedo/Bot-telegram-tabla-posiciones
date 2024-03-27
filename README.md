@@ -30,10 +30,7 @@ Este bot de Telegram te permite acceder a la tabla de posiciones del campeonato 
 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 
-- Telegram: [tu_usuario](https://t.me/bbing)
-
-## Licencia 📄
-
+- Telegram: [bbing](https://t.me/bbing)
 
 ---
 Hecho con ❤️ por [Bruno](https://github.com/brunooviedo)
